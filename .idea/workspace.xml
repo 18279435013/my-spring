@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="769ffbb6-95de-4342-91a5-43a95ee8bfd0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-framework" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +150,7 @@
       <workItem from="1659449048010" duration="1160000" />
       <workItem from="1661411299885" duration="71000" />
       <workItem from="1661421820961" duration="12000" />
+      <workItem from="1661422856308" duration="611000" />
     </task>
     <servers />
   </component>
