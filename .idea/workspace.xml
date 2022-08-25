@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="769ffbb6-95de-4342-91a5-43a95ee8bfd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-framework/spring-beans/src/test/resources/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework/spring-liuxw-record-demo/src/main/java/beans/demo/BeanApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework/spring-liuxw-record-demo/src/main/java/beans/demo/SysConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework/spring-liuxw-record-demo/src/main/java/beans/demo/doming/SysUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework/spring-liuxw-record-demo/src/main/java/beans/demo/reinforce/SysUserInitBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework/spring-liuxw-record-demo/src/main/resources/beans/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractRefreshableApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractRefreshableApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/support/ClassPathXmlApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/spring-context/src/main/java/org/springframework/context/support/ClassPathXmlApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework/spring-core/src/main/java/org/springframework/core/CoroutinesUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework/spring-core/src/main/java/org/springframework/core/CoroutinesUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -161,6 +148,7 @@
       <workItem from="1659058260291" duration="598000" />
       <workItem from="1659449048010" duration="1160000" />
       <workItem from="1661411299885" duration="71000" />
+      <workItem from="1661421820961" duration="12000" />
     </task>
     <servers />
   </component>
