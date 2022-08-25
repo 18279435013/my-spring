@@ -1,0 +1,217 @@
+GET http://localhost:10001/testFuture
+
+<> 2022-05-06T160457.500.json
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+GET http://localhost:10001/testFuture
+
+###
+
+POST http://localhost:10001/update
+Content-Type: application/json
+
+{
+  "id": null,
+  "userName": "刘先文"
+}
+
+<> 2022-04-26T172316.400.json
+
+###
+
+POST http://localhost:10001/update
+Content-Type: application/json
+
+{
+  "id": null,
+  "userName": "刘先文"
+}
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": "1"
+}
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": 1
+}
+
+<> 2022-04-26T114658.400.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": 1
+}
+
+<> 2022-04-26T114654.400.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": 1
+}
+
+<> 2022-04-26T114552.400.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": 1
+}
+
+<> 2022-04-26T114540.400.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": "1"
+}
+
+<> 2022-04-26T114402.400.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文",
+  "create": 1
+}
+
+<> 2022-04-26T114355.400.json
+
+###
+
+GET http://localhost:10001/findById?id=1
+Accept: application/json
+
+###
+
+GET http://localhost:10001/findById
+Accept: application/json
+
+<> 2022-04-26T104136.400.json
+
+###
+
+GET http://localhost:10001/findById
+Accept: application/json
+
+###
+
+GET http://localhost:10001/findById
+Accept: application/json
+
+<> 2022-04-26T103845.404.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文"
+}
+
+###
+
+POST http://localhost:10001/update
+Content-Type: application/json
+
+{
+  "id": null,
+  "userName": "刘先文"
+}
+
+<> 2022-04-26T103415.400.json
+
+###
+
+POST http://localhost:10001/insert
+Content-Type: application/json
+
+{
+  "id": 1,
+  "userName": "刘先文"
+}
+
+###
+
+POST http://localhost:10001/update
+
+###
+

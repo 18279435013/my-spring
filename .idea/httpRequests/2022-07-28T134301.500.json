@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-07-28T05:43:01.065+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No qualifying bean of type 'org.springframework.cache.interceptor.CacheInterceptor' available: expected single matching bean but found 2: getCacheInterceptor,cacheInterceptor",
+  "path": "/user/test"
+}

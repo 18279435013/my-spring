@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-07-28T05:14:04.310+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "class com.alibaba.fastjson.JSONObject cannot be cast to class com.lxw.domain.User (com.alibaba.fastjson.JSONObject and com.lxw.domain.User are in unnamed module of loader 'app')",
+  "path": "/user"
+}

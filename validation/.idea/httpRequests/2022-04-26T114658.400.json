@@ -1,0 +1,35 @@
+{
+  "timestamp": "2022-04-26T03:46:58.624+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "errors": [
+    {
+      "codes": [
+        "isDate.user.create",
+        "isDate.create",
+        "isDate.java.lang.Object",
+        "isDate"
+      ],
+      "arguments": [
+        {
+          "codes": [
+            "user.create",
+            "create"
+          ],
+          "arguments": null,
+          "defaultMessage": "create",
+          "code": "create"
+        },
+        "java.lang.String"
+      ],
+      "defaultMessage": "类型错误",
+      "objectName": "user",
+      "field": "create",
+      "rejectedValue": 1,
+      "bindingFailure": false,
+      "code": "isDate"
+    }
+  ],
+  "message": "Validation failed for object='user'. Error count: 1",
+  "path": "/insert"
+}
